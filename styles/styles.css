@@ -42,7 +42,7 @@ body{
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 20px;
     color: #595959;
     /*width: 400px; */
  }
@@ -74,7 +74,7 @@ body{
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 20px;
     color: #FFFFFF;
     margin-right: 10px;
 }
@@ -82,7 +82,7 @@ body{
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 20px;
     color: #FFFFFF;
     opacity: 0.5;
 }
@@ -95,7 +95,7 @@ body{
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 20px;
     color: #FFFFFF;
 }
 .skills_item{
@@ -121,7 +121,7 @@ margin-bottom: 50px;
     font-style: normal;
     font-weight: 700;
     font-size: 22px;
-    line-height: 27px;
+    line-height: 20px;
     color: #000000;
     margin-bottom: 10px;
 }
@@ -133,7 +133,7 @@ margin-bottom: 50px;
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 20px;
     color: #000000;
 }
 .project,
@@ -141,7 +141,7 @@ margin-bottom: 50px;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 20px;
     color: #595959;
 }
 .project_link{
@@ -151,7 +151,7 @@ margin-bottom: 50px;
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 20px;
     color: #000000;
 }
 /* work styles */
@@ -191,7 +191,7 @@ margin-bottom: 50px;
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 20px;
     color: #595959;
     }
     /* Education styles */
