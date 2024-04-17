@@ -49,11 +49,11 @@ body{
 /* sidebar_styles */
 .sidebar{
     background-color: #1E2939;
-    padding-top: 40px;
-    width: 370px;
+    padding-top: 0px;
+    width: 320px;
 }
 .photo{
-    width: 370px;
+    width: 320px;
     margin-bottom: 50px;
 }
 .sidebar_title{
@@ -65,7 +65,7 @@ body{
     margin-bottom: 10px;
 }
 .contacts, .tech_skills, .soft_skills{
-    margin-left: 40px;
+    margin-left: 50px;
   }
 .contacts{
     margin-bottom: 50px;
@@ -73,7 +73,7 @@ body{
 .contact_type{
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 20px;
     color: #FFFFFF;
     margin-right: 10px;
@@ -81,7 +81,7 @@ body{
 .contact_link{
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 20px;
     color: #FFFFFF;
     opacity: 0.5;
@@ -94,8 +94,8 @@ body{
 .skills_text{
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
-    line-height: 20px;
+    font-size: 20px;
+    line-height: 40px;
     color: #FFFFFF;
 }
 .skills_item{
@@ -133,8 +133,9 @@ margin-bottom: 50px;
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
-    line-height: 10px;
-    color: #000000;
+    line-height: 20px;
+    color: #FB6D3A;
+    margin-bottom: 10px;
 }
 .project,
 .project_link{
