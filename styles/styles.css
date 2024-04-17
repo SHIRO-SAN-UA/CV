@@ -199,15 +199,15 @@ margin-bottom: 50px;
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
-    line-height: 10px;
-    color: #FB6D3A;
+    line-height: 20px;
+    color: #000000;
     margin-bottom: 10px;
 }
 .specialization{
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
-    line-height: 10px;
-    color: #000000;
+    line-height: 20px;
+    color: #FB6D3A;
     margin-bottom: 10px;
 }
